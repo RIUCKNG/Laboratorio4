@@ -1,0 +1,40 @@
+*{
+    pad: 0px;
+    margin: 2px;
+
+}
+
+html{
+    background: purple;
+}
+body{
+    height: 800px;
+    width: 800;
+    background: orange;
+    margin: auto;
+}
+#Audífonos{
+    height: 400px;
+    width: 350px;
+    background: greenyellow;
+    float: left;
+}
+#Relog{
+    height: 410px;
+    width: 350px;
+    background: greenyellow;
+    float: Upper right;
+}
+header{
+    height: 25px;
+    width: 800px;
+    background: red;
+}
+nav{
+    height: 50px;
+    background: violet;
+}
+footer{
+    height: 50px;
+    background: yellow;
+}
